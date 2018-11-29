@@ -1,4 +1,4 @@
 \babel@toc {spanish}{}
 \contentsline {section}{\numberline {1}Cuestionario}{1}
 \contentsline {subsection}{\numberline {1.1}Desarrollar el script de creaci\IeC {\'o}n de TableSpace(s) y archivos para la base de datos de su proyecto}{1}
-\contentsline {subsection}{\numberline {1.2}Desarrollar el script de creaci\IeC {\'o}n de objetos (entidades, atributos, llaves y restricciones)}{1}
+\contentsline {subsection}{\numberline {1.2}Desarrollar el script de creaci\IeC {\'o}n de objetos (entidades, atributos, llaves y restricciones)}{2}
